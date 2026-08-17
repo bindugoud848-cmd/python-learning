@@ -1,0 +1,6 @@
+a="234"
+print(a.isdigit())
+b="abc"
+print(b.islowe())
+c="ABC"
+print(c.isupper())
